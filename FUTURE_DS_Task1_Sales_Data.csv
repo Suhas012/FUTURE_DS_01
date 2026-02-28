@@ -1,0 +1,1001 @@
+OrderID,Date,Product,Category,Region,Sales,Profit
+1,2024-05-05,Phone,Technology,South,704,174.81
+2,2024-10-06,Tablet,Technology,North,1339,315.12
+3,2024-04-21,Mouse,Office Supplies,South,760,80.53
+4,2024-12-25,Laptop,Technology,West,2128,517.54
+5,2024-01-04,Printer,Office Supplies,South,4179,910.41
+6,2024-04-20,Mouse,Office Supplies,East,3287,511.37
+7,2024-07-02,Phone,Technology,East,1259,221.57
+8,2024-10-01,Monitor,Technology,North,855,210.28
+9,2024-11-17,Mouse,Office Supplies,East,1145,240.92
+10,2024-04-26,Printer,Office Supplies,East,1069,116.7
+11,2024-07-13,Phone,Technology,East,2407,657.83
+12,2024-06-30,Headphones,Technology,South,3488,462.27
+13,2024-03-28,Monitor,Technology,South,1084,240.46
+14,2024-11-23,Tablet,Technology,South,4286,753.87
+15,2024-01-17,Keyboard,Office Supplies,East,958,139.69
+16,2024-10-17,Mouse,Office Supplies,East,2693,304.95
+17,2024-11-25,Printer,Office Supplies,West,4589,822.01
+18,2024-10-14,Tablet,Technology,East,2669,341.43
+19,2024-03-11,Mouse,Office Supplies,West,3771,650.12
+20,2024-03-19,Phone,Technology,South,885,240.92
+21,2024-11-01,Mouse,Office Supplies,West,1020,180.49
+22,2024-02-28,Monitor,Technology,East,594,140.22
+23,2024-03-21,Keyboard,Office Supplies,West,1413,224.24
+24,2024-04-01,Laptop,Technology,North,2657,782.16
+25,2024-03-19,Monitor,Technology,East,4658,1033.12
+26,2024-09-28,Tablet,Technology,North,4918,1429.66
+27,2024-07-04,Keyboard,Office Supplies,East,4502,467.74
+28,2024-10-17,Printer,Office Supplies,North,974,144.32
+29,2024-09-29,Phone,Technology,South,4481,1179.42
+30,2024-03-25,Tablet,Technology,East,4393,1271.2
+31,2024-12-19,Mouse,Office Supplies,South,2235,638.72
+32,2024-11-28,Monitor,Technology,East,3768,1126.74
+33,2024-05-06,Headphones,Technology,South,4739,901.82
+34,2024-10-10,Phone,Technology,South,3269,340.65
+35,2024-11-19,Printer,Office Supplies,North,558,63.72
+36,2024-06-18,Printer,Office Supplies,North,1052,295.7
+37,2024-04-19,Printer,Office Supplies,South,2781,650.19
+38,2024-07-27,Headphones,Technology,South,2490,639.74
+39,2024-06-30,Phone,Technology,West,1294,299.94
+40,2024-01-28,Mouse,Office Supplies,North,4325,1179.72
+41,2024-02-25,Laptop,Technology,South,3798,932.95
+42,2024-03-12,Printer,Office Supplies,West,2058,426.54
+43,2024-02-08,Tablet,Technology,West,2781,535.41
+44,2024-10-03,Phone,Technology,North,914,210.61
+45,2024-09-05,Phone,Technology,West,2436,324.63
+46,2024-03-25,Printer,Office Supplies,West,3785,1061.65
+47,2024-08-20,Laptop,Technology,East,3698,565.94
+48,2024-05-31,Mouse,Office Supplies,South,4486,587.48
+49,2024-06-09,Laptop,Technology,North,4941,554.34
+50,2024-09-28,Laptop,Technology,South,4405,883.51
+51,2024-04-05,Laptop,Technology,North,4660,540.66
+52,2024-10-18,Phone,Technology,South,2426,438.51
+53,2024-10-25,Laptop,Technology,East,1171,215.28
+54,2024-06-09,Monitor,Technology,South,2173,508.36
+55,2024-11-26,Monitor,Technology,East,3742,472.15
+56,2024-02-07,Headphones,Technology,North,3090,883.13
+57,2024-04-19,Headphones,Technology,East,1319,151.23
+58,2024-05-05,Tablet,Technology,East,3359,927.66
+59,2024-10-05,Monitor,Technology,East,1792,336.25
+60,2024-02-23,Laptop,Technology,South,2952,845.31
+61,2024-10-10,Monitor,Technology,South,1445,401.63
+62,2024-06-24,Monitor,Technology,South,2808,620.47
+63,2024-01-27,Monitor,Technology,North,4640,917.36
+64,2024-06-19,Mouse,Office Supplies,South,2766,300.99
+65,2024-10-09,Monitor,Technology,West,1823,452.55
+66,2024-12-19,Laptop,Technology,South,1416,162.91
+67,2024-03-16,Laptop,Technology,West,3524,762.95
+68,2024-01-21,Tablet,Technology,East,842,136.11
+69,2024-06-30,Printer,Office Supplies,West,2544,593.74
+70,2024-03-31,Tablet,Technology,West,2439,665.65
+71,2024-06-19,Laptop,Technology,West,1969,486.96
+72,2024-12-25,Printer,Office Supplies,North,2685,353.99
+73,2024-04-23,Mouse,Office Supplies,South,817,221.99
+74,2024-04-26,Headphones,Technology,South,3364,541.73
+75,2024-05-22,Laptop,Technology,North,2082,374.12
+76,2024-07-23,Monitor,Technology,East,3376,770.73
+77,2024-05-13,Laptop,Technology,South,1444,397.69
+78,2024-08-10,Monitor,Technology,East,813,98.93
+79,2024-09-18,Keyboard,Office Supplies,North,4074,901.34
+80,2024-12-28,Mouse,Office Supplies,West,2057,310.49
+81,2024-10-02,Laptop,Technology,South,4759,1356.86
+82,2024-12-06,Keyboard,Office Supplies,East,4033,459.74
+83,2024-06-02,Keyboard,Office Supplies,East,1520,370.81
+84,2024-05-31,Mouse,Office Supplies,South,3172,572.48
+85,2024-07-13,Printer,Office Supplies,South,3944,918.9
+86,2024-01-01,Monitor,Technology,East,3826,801.88
+87,2024-10-23,Monitor,Technology,East,2221,413.06
+88,2024-04-19,Headphones,Technology,West,4119,776.15
+89,2024-12-05,Tablet,Technology,East,1194,187.17
+90,2024-04-25,Phone,Technology,South,2424,568.57
+91,2024-08-31,Tablet,Technology,North,700,76.47
+92,2024-10-21,Headphones,Technology,South,3895,1079.8
+93,2024-03-16,Mouse,Office Supplies,North,4549,818.5
+94,2024-12-22,Phone,Technology,West,3982,572.49
+95,2024-03-03,Laptop,Technology,West,2541,720.36
+96,2024-10-13,Tablet,Technology,East,4306,1005.52
+97,2024-10-07,Headphones,Technology,West,4635,859.09
+98,2024-05-06,Tablet,Technology,East,4388,833.78
+99,2024-02-09,Headphones,Technology,East,2459,380.95
+100,2024-10-03,Printer,Office Supplies,North,2725,455.54
+101,2024-12-21,Tablet,Technology,South,1735,253.75
+102,2024-06-18,Printer,Office Supplies,West,1026,187.73
+103,2024-08-03,Mouse,Office Supplies,West,1010,142.78
+104,2024-06-29,Laptop,Technology,East,3616,706.55
+105,2024-10-06,Mouse,Office Supplies,South,3932,816.46
+106,2024-09-05,Headphones,Technology,North,2297,355.09
+107,2024-07-26,Mouse,Office Supplies,South,3253,760.47
+108,2024-09-30,Headphones,Technology,North,1545,457.54
+109,2024-08-07,Mouse,Office Supplies,South,722,84.32
+110,2024-07-13,Headphones,Technology,East,1988,218.79
+111,2024-07-13,Printer,Office Supplies,East,4224,698.52
+112,2024-08-28,Mouse,Office Supplies,North,2566,685.08
+113,2024-02-05,Laptop,Technology,North,3366,487.55
+114,2024-01-11,Laptop,Technology,South,2525,353.18
+115,2024-02-28,Printer,Office Supplies,South,1534,298.69
+116,2024-03-26,Headphones,Technology,North,2599,658.53
+117,2024-01-14,Tablet,Technology,East,3048,370.7
+118,2024-04-11,Mouse,Office Supplies,North,3749,1080.81
+119,2024-06-03,Printer,Office Supplies,North,1334,319.41
+120,2024-12-04,Laptop,Technology,East,3344,690.7
+121,2024-01-07,Phone,Technology,West,4644,1065.84
+122,2024-07-04,Headphones,Technology,West,1364,254.67
+123,2024-09-24,Tablet,Technology,East,4067,549.97
+124,2024-10-30,Headphones,Technology,East,4308,806.09
+125,2024-02-14,Keyboard,Office Supplies,East,2511,668.29
+126,2024-10-18,Headphones,Technology,West,2497,624.49
+127,2024-06-15,Keyboard,Office Supplies,South,735,146.16
+128,2024-05-12,Headphones,Technology,East,2237,382.45
+129,2024-09-21,Monitor,Technology,South,2763,583.43
+130,2024-09-07,Phone,Technology,South,2477,604.42
+131,2024-01-09,Headphones,Technology,North,4520,857.15
+132,2024-05-04,Monitor,Technology,East,2315,418.74
+133,2024-06-25,Keyboard,Office Supplies,West,4376,922.0
+134,2024-05-18,Keyboard,Office Supplies,East,3382,813.61
+135,2024-04-08,Monitor,Technology,East,2388,296.43
+136,2024-12-19,Phone,Technology,South,4889,1418.67
+137,2024-05-21,Printer,Office Supplies,East,2272,562.82
+138,2024-07-03,Phone,Technology,South,2090,332.83
+139,2024-03-05,Monitor,Technology,East,615,148.59
+140,2024-12-23,Laptop,Technology,South,946,199.3
+141,2024-10-20,Headphones,Technology,East,1340,367.89
+142,2024-04-04,Headphones,Technology,North,4421,831.56
+143,2024-02-03,Monitor,Technology,West,4413,541.99
+144,2024-12-17,Headphones,Technology,North,1106,238.24
+145,2024-06-04,Tablet,Technology,North,1722,451.56
+146,2024-08-01,Printer,Office Supplies,South,1470,311.07
+147,2024-06-01,Mouse,Office Supplies,West,4190,1180.33
+148,2024-02-20,Monitor,Technology,South,993,220.37
+149,2024-03-21,Printer,Office Supplies,South,2667,618.97
+150,2024-07-28,Tablet,Technology,West,1114,146.28
+151,2024-05-27,Headphones,Technology,East,2885,307.33
+152,2024-05-15,Headphones,Technology,South,1083,257.19
+153,2024-11-27,Mouse,Office Supplies,South,1440,300.83
+154,2024-03-25,Monitor,Technology,East,1665,190.28
+155,2024-12-18,Monitor,Technology,East,4097,511.6
+156,2024-09-09,Mouse,Office Supplies,West,2730,546.26
+157,2024-06-14,Phone,Technology,East,826,229.53
+158,2024-12-11,Laptop,Technology,North,1248,181.94
+159,2024-03-30,Monitor,Technology,West,829,209.42
+160,2024-10-26,Headphones,Technology,West,2778,378.64
+161,2024-07-28,Headphones,Technology,East,1247,241.92
+162,2024-06-17,Keyboard,Office Supplies,West,1356,368.22
+163,2024-07-24,Headphones,Technology,North,2861,665.23
+164,2024-06-14,Headphones,Technology,North,1221,198.91
+165,2024-01-01,Mouse,Office Supplies,West,4715,1249.41
+166,2024-07-04,Mouse,Office Supplies,West,944,129.82
+167,2024-10-08,Headphones,Technology,South,922,129.74
+168,2024-09-05,Monitor,Technology,North,4089,1129.26
+169,2024-06-08,Laptop,Technology,North,2460,595.21
+170,2024-02-28,Mouse,Office Supplies,West,1263,183.06
+171,2024-05-29,Phone,Technology,East,1761,351.63
+172,2024-05-04,Mouse,Office Supplies,West,4452,1318.01
+173,2024-11-02,Tablet,Technology,South,3642,503.04
+174,2024-07-31,Phone,Technology,East,2763,703.28
+175,2024-06-01,Monitor,Technology,West,521,81.57
+176,2024-06-25,Tablet,Technology,East,4158,863.68
+177,2024-04-06,Mouse,Office Supplies,South,4230,1212.19
+178,2024-07-29,Mouse,Office Supplies,North,2413,654.41
+179,2024-07-14,Keyboard,Office Supplies,West,4374,1054.33
+180,2024-03-05,Tablet,Technology,East,4557,1335.04
+181,2024-08-21,Phone,Technology,North,4106,492.48
+182,2024-03-20,Tablet,Technology,North,3858,1057.81
+183,2024-12-20,Headphones,Technology,West,2671,447.96
+184,2024-09-30,Phone,Technology,West,3191,863.06
+185,2024-01-19,Keyboard,Office Supplies,North,4497,1234.32
+186,2024-02-16,Printer,Office Supplies,West,2854,854.73
+187,2024-12-21,Phone,Technology,East,1323,249.7
+188,2024-01-29,Laptop,Technology,East,876,144.43
+189,2024-05-05,Keyboard,Office Supplies,West,3570,664.51
+190,2024-11-08,Tablet,Technology,West,1892,255.45
+191,2024-03-14,Printer,Office Supplies,South,4576,1293.02
+192,2024-12-07,Headphones,Technology,North,2580,495.14
+193,2024-03-21,Headphones,Technology,North,2856,672.65
+194,2024-06-02,Headphones,Technology,West,3330,990.78
+195,2024-04-11,Monitor,Technology,West,4242,1141.36
+196,2024-10-19,Headphones,Technology,East,1373,202.44
+197,2024-12-03,Monitor,Technology,West,2918,304.6
+198,2024-12-17,Monitor,Technology,North,566,120.66
+199,2024-04-27,Headphones,Technology,East,2844,725.64
+200,2024-12-13,Printer,Office Supplies,South,2057,461.13
+201,2024-08-13,Phone,Technology,North,822,132.99
+202,2024-05-31,Keyboard,Office Supplies,East,1576,186.01
+203,2024-10-03,Mouse,Office Supplies,East,1938,271.63
+204,2024-09-03,Monitor,Technology,East,1847,279.62
+205,2024-02-08,Keyboard,Office Supplies,South,1443,279.46
+206,2024-10-12,Printer,Office Supplies,East,3755,1101.92
+207,2024-10-01,Phone,Technology,North,3732,383.59
+208,2024-12-10,Headphones,Technology,East,3519,825.44
+209,2024-04-29,Mouse,Office Supplies,West,3543,431.07
+210,2024-04-23,Laptop,Technology,North,3187,902.08
+211,2024-02-29,Headphones,Technology,South,2975,683.8
+212,2024-09-09,Laptop,Technology,North,804,129.34
+213,2024-03-10,Phone,Technology,West,2423,672.27
+214,2024-12-22,Headphones,Technology,West,3539,828.47
+215,2024-09-07,Tablet,Technology,West,3898,900.38
+216,2024-04-21,Monitor,Technology,West,768,182.83
+217,2024-02-20,Headphones,Technology,East,2434,659.83
+218,2024-04-07,Keyboard,Office Supplies,North,996,178.91
+219,2024-11-24,Headphones,Technology,North,1250,290.69
+220,2024-03-05,Laptop,Technology,South,3232,480.64
+221,2024-04-29,Phone,Technology,East,2197,477.36
+222,2024-03-15,Tablet,Technology,South,523,81.3
+223,2024-01-14,Monitor,Technology,South,1929,235.31
+224,2024-05-01,Laptop,Technology,East,3434,885.96
+225,2024-03-05,Laptop,Technology,West,1927,294.97
+226,2024-07-04,Phone,Technology,North,1020,199.15
+227,2024-11-10,Headphones,Technology,North,4627,667.72
+228,2024-01-16,Monitor,Technology,North,4252,972.3
+229,2024-02-25,Headphones,Technology,West,3790,702.12
+230,2024-06-13,Headphones,Technology,South,1102,308.4
+231,2024-11-20,Phone,Technology,East,1533,237.62
+232,2024-09-15,Mouse,Office Supplies,West,4846,770.41
+233,2024-11-29,Phone,Technology,South,1437,388.79
+234,2024-07-30,Mouse,Office Supplies,East,4199,1165.72
+235,2024-02-18,Headphones,Technology,East,3766,689.92
+236,2024-07-10,Mouse,Office Supplies,South,3060,713.05
+237,2024-02-13,Headphones,Technology,North,1049,124.04
+238,2024-07-09,Mouse,Office Supplies,South,1291,321.35
+239,2024-07-29,Laptop,Technology,East,3200,748.81
+240,2024-11-03,Mouse,Office Supplies,East,921,270.48
+241,2024-04-18,Keyboard,Office Supplies,South,1348,290.61
+242,2024-06-28,Headphones,Technology,East,2337,629.72
+243,2024-08-07,Phone,Technology,North,2782,597.63
+244,2024-12-25,Monitor,Technology,East,737,100.29
+245,2024-03-14,Keyboard,Office Supplies,West,3375,341.62
+246,2024-01-16,Phone,Technology,North,1662,412.5
+247,2024-06-23,Printer,Office Supplies,South,3581,658.78
+248,2024-10-17,Keyboard,Office Supplies,North,3052,745.66
+249,2024-11-12,Laptop,Technology,North,1774,233.25
+250,2024-08-05,Phone,Technology,West,2729,514.75
+251,2024-09-19,Headphones,Technology,North,3892,601.83
+252,2024-12-13,Keyboard,Office Supplies,West,4021,491.28
+253,2024-11-02,Monitor,Technology,North,872,125.66
+254,2024-04-18,Laptop,Technology,South,2174,348.46
+255,2024-01-04,Monitor,Technology,West,2871,475.51
+256,2024-09-29,Mouse,Office Supplies,South,1939,244.0
+257,2024-01-22,Keyboard,Office Supplies,West,1090,195.56
+258,2024-06-09,Laptop,Technology,West,4266,1212.54
+259,2024-07-26,Mouse,Office Supplies,North,3921,619.14
+260,2024-11-12,Keyboard,Office Supplies,West,1907,496.32
+261,2024-02-24,Keyboard,Office Supplies,South,1221,228.75
+262,2024-07-21,Mouse,Office Supplies,East,3780,774.12
+263,2024-03-27,Keyboard,Office Supplies,North,2315,385.71
+264,2024-06-27,Phone,Technology,East,4846,978.85
+265,2024-05-11,Tablet,Technology,South,2435,293.57
+266,2024-12-01,Tablet,Technology,North,1752,441.58
+267,2024-10-15,Tablet,Technology,West,4547,876.62
+268,2024-02-04,Keyboard,Office Supplies,West,3089,402.16
+269,2024-10-29,Headphones,Technology,North,2980,772.61
+270,2024-08-24,Keyboard,Office Supplies,West,4656,534.69
+271,2024-05-26,Laptop,Technology,North,966,167.84
+272,2024-10-24,Phone,Technology,North,4653,823.1
+273,2024-08-31,Headphones,Technology,South,2042,335.51
+274,2024-06-24,Laptop,Technology,North,4190,505.73
+275,2024-08-12,Tablet,Technology,West,820,122.63
+276,2024-05-24,Tablet,Technology,West,3481,607.68
+277,2024-01-27,Mouse,Office Supplies,East,3271,771.23
+278,2024-12-13,Phone,Technology,West,3200,380.48
+279,2024-12-02,Monitor,Technology,South,2564,627.53
+280,2024-03-13,Keyboard,Office Supplies,East,1167,252.71
+281,2024-12-28,Monitor,Technology,North,3710,466.68
+282,2024-06-17,Monitor,Technology,South,3585,819.88
+283,2024-01-10,Phone,Technology,East,3968,800.34
+284,2024-06-23,Monitor,Technology,West,1976,573.5
+285,2024-03-20,Printer,Office Supplies,North,2355,706.49
+286,2024-10-03,Monitor,Technology,North,1328,267.64
+287,2024-03-19,Keyboard,Office Supplies,South,1573,345.19
+288,2024-01-23,Tablet,Technology,West,1856,453.3
+289,2024-11-08,Keyboard,Office Supplies,East,2445,718.63
+290,2024-06-07,Headphones,Technology,West,2416,499.63
+291,2024-10-19,Printer,Office Supplies,West,3513,827.88
+292,2024-09-14,Headphones,Technology,West,2808,717.79
+293,2024-03-11,Tablet,Technology,East,2135,555.64
+294,2024-10-10,Laptop,Technology,North,4436,1219.12
+295,2024-03-23,Phone,Technology,East,2835,331.06
+296,2024-08-11,Headphones,Technology,North,4705,609.16
+297,2024-01-14,Printer,Office Supplies,West,4195,1161.7
+298,2024-04-30,Laptop,Technology,West,3747,750.9
+299,2024-06-12,Phone,Technology,North,3571,517.47
+300,2024-05-26,Keyboard,Office Supplies,West,1696,216.27
+301,2024-01-03,Tablet,Technology,North,4342,823.77
+302,2024-03-17,Laptop,Technology,West,2596,371.57
+303,2024-03-03,Phone,Technology,North,2860,421.93
+304,2024-11-14,Printer,Office Supplies,West,3939,897.27
+305,2024-09-12,Phone,Technology,North,1408,376.41
+306,2024-01-01,Printer,Office Supplies,East,1676,265.23
+307,2024-12-08,Printer,Office Supplies,North,3912,537.75
+308,2024-10-05,Keyboard,Office Supplies,North,1054,306.38
+309,2024-07-17,Mouse,Office Supplies,East,4351,472.98
+310,2024-02-04,Monitor,Technology,East,633,108.51
+311,2024-06-19,Printer,Office Supplies,South,1349,343.05
+312,2024-11-25,Laptop,Technology,South,3386,708.36
+313,2024-03-10,Headphones,Technology,North,4420,1000.45
+314,2024-01-23,Headphones,Technology,South,802,127.27
+315,2024-09-20,Laptop,Technology,West,3085,884.39
+316,2024-11-27,Headphones,Technology,South,2575,276.36
+317,2024-01-25,Monitor,Technology,East,3424,932.79
+318,2024-08-11,Monitor,Technology,West,1519,394.74
+319,2024-04-05,Headphones,Technology,West,3667,615.35
+320,2024-09-22,Headphones,Technology,East,3509,999.58
+321,2024-11-04,Phone,Technology,South,3977,460.48
+322,2024-06-16,Monitor,Technology,East,3131,377.35
+323,2024-08-06,Monitor,Technology,South,4152,915.62
+324,2024-06-29,Headphones,Technology,West,3379,640.07
+325,2024-11-22,Monitor,Technology,West,969,111.44
+326,2024-12-13,Keyboard,Office Supplies,South,4703,1223.81
+327,2024-12-13,Laptop,Technology,West,1669,450.19
+328,2024-11-26,Laptop,Technology,East,1534,174.03
+329,2024-01-17,Keyboard,Office Supplies,South,3636,1054.05
+330,2024-02-09,Headphones,Technology,South,3538,617.04
+331,2024-05-22,Keyboard,Office Supplies,South,3760,612.42
+332,2024-09-12,Phone,Technology,West,712,175.96
+333,2024-12-26,Phone,Technology,West,2644,674.2
+334,2024-09-08,Printer,Office Supplies,South,2839,677.94
+335,2024-08-19,Phone,Technology,South,1611,435.88
+336,2024-06-12,Headphones,Technology,East,1219,319.5
+337,2024-06-02,Phone,Technology,South,4941,781.04
+338,2024-03-03,Tablet,Technology,South,3461,698.26
+339,2024-01-14,Tablet,Technology,East,2439,629.44
+340,2024-10-09,Keyboard,Office Supplies,South,4328,1128.45
+341,2024-09-02,Phone,Technology,West,1038,168.01
+342,2024-06-11,Mouse,Office Supplies,North,1104,138.07
+343,2024-06-25,Headphones,Technology,South,4316,1018.67
+344,2024-01-29,Tablet,Technology,North,1557,290.42
+345,2024-06-14,Tablet,Technology,South,2991,397.6
+346,2024-02-10,Keyboard,Office Supplies,East,4750,1325.18
+347,2024-06-04,Printer,Office Supplies,North,2748,343.59
+348,2024-11-15,Tablet,Technology,East,1763,236.67
+349,2024-11-24,Laptop,Technology,East,732,85.09
+350,2024-01-16,Printer,Office Supplies,West,3912,874.81
+351,2024-12-16,Monitor,Technology,West,2974,584.66
+352,2024-01-31,Monitor,Technology,South,4215,483.02
+353,2024-04-14,Headphones,Technology,East,3904,768.5
+354,2024-06-12,Tablet,Technology,East,3060,833.23
+355,2024-09-20,Mouse,Office Supplies,North,1571,396.1
+356,2024-05-16,Keyboard,Office Supplies,West,2480,479.37
+357,2024-05-28,Printer,Office Supplies,West,1654,197.43
+358,2024-03-22,Mouse,Office Supplies,East,2533,741.0
+359,2024-09-12,Keyboard,Office Supplies,West,2055,519.14
+360,2024-02-16,Headphones,Technology,West,3027,603.81
+361,2024-06-29,Headphones,Technology,North,2472,353.57
+362,2024-11-30,Laptop,Technology,West,2804,557.94
+363,2024-02-25,Monitor,Technology,West,4896,497.61
+364,2024-07-25,Tablet,Technology,East,2666,654.51
+365,2024-10-14,Laptop,Technology,South,3781,416.79
+366,2024-09-15,Keyboard,Office Supplies,West,2864,328.52
+367,2024-02-19,Monitor,Technology,West,1473,185.2
+368,2024-07-06,Keyboard,Office Supplies,South,3277,693.3
+369,2024-01-21,Printer,Office Supplies,North,4670,841.9
+370,2024-08-30,Laptop,Technology,West,1622,393.69
+371,2024-11-09,Tablet,Technology,East,4723,604.34
+372,2024-06-02,Tablet,Technology,East,3719,1108.72
+373,2024-01-09,Headphones,Technology,East,2955,576.16
+374,2024-10-25,Keyboard,Office Supplies,East,1397,413.48
+375,2024-12-01,Laptop,Technology,South,4387,671.68
+376,2024-11-18,Laptop,Technology,West,4435,594.74
+377,2024-12-24,Tablet,Technology,North,2484,264.08
+378,2024-08-02,Printer,Office Supplies,South,655,123.28
+379,2024-11-09,Mouse,Office Supplies,West,2170,395.1
+380,2024-10-14,Laptop,Technology,East,1631,332.29
+381,2024-03-29,Headphones,Technology,West,4804,842.45
+382,2024-12-14,Keyboard,Office Supplies,East,4975,850.02
+383,2024-05-22,Headphones,Technology,East,2075,604.8
+384,2024-12-26,Printer,Office Supplies,South,2938,746.94
+385,2024-10-13,Headphones,Technology,East,3097,606.89
+386,2024-10-05,Monitor,Technology,West,1498,321.61
+387,2024-03-15,Mouse,Office Supplies,East,3327,967.9
+388,2024-02-10,Laptop,Technology,East,2856,831.28
+389,2024-04-19,Headphones,Technology,South,2600,648.62
+390,2024-11-11,Monitor,Technology,South,2725,347.31
+391,2024-09-28,Printer,Office Supplies,South,915,214.08
+392,2024-06-18,Printer,Office Supplies,West,930,111.64
+393,2024-10-08,Phone,Technology,South,1626,164.29
+394,2024-04-12,Mouse,Office Supplies,East,4396,859.37
+395,2024-02-15,Keyboard,Office Supplies,South,2838,650.41
+396,2024-03-31,Laptop,Technology,North,1934,355.04
+397,2024-05-28,Mouse,Office Supplies,North,4558,625.64
+398,2024-02-24,Laptop,Technology,East,2944,628.82
+399,2024-10-05,Monitor,Technology,West,4222,1257.4
+400,2024-04-08,Tablet,Technology,North,4630,896.39
+401,2024-11-27,Keyboard,Office Supplies,East,1831,450.84
+402,2024-05-31,Tablet,Technology,South,615,152.1
+403,2024-09-20,Tablet,Technology,East,3821,1014.09
+404,2024-04-04,Phone,Technology,South,3783,884.66
+405,2024-01-04,Headphones,Technology,East,3150,904.57
+406,2024-05-16,Mouse,Office Supplies,East,2429,459.92
+407,2024-07-03,Monitor,Technology,South,593,90.32
+408,2024-03-22,Laptop,Technology,West,1468,283.44
+409,2024-05-31,Monitor,Technology,East,1461,332.73
+410,2024-09-01,Printer,Office Supplies,South,2295,668.93
+411,2024-10-08,Headphones,Technology,West,3560,652.08
+412,2024-11-01,Printer,Office Supplies,North,2527,596.54
+413,2024-02-09,Headphones,Technology,North,4826,1161.88
+414,2024-04-13,Laptop,Technology,South,4986,1398.96
+415,2024-08-14,Tablet,Technology,North,3187,863.35
+416,2024-09-18,Printer,Office Supplies,West,4504,532.32
+417,2024-07-31,Laptop,Technology,West,4214,532.6
+418,2024-06-06,Laptop,Technology,North,4287,1005.53
+419,2024-04-21,Mouse,Office Supplies,North,2584,680.34
+420,2024-02-02,Laptop,Technology,North,3970,670.56
+421,2024-07-28,Phone,Technology,South,4367,464.42
+422,2024-07-14,Tablet,Technology,West,3943,689.6
+423,2024-12-04,Mouse,Office Supplies,South,3577,415.11
+424,2024-10-02,Keyboard,Office Supplies,West,1471,199.61
+425,2024-01-12,Tablet,Technology,East,2324,620.43
+426,2024-07-13,Headphones,Technology,South,4960,916.74
+427,2024-05-21,Printer,Office Supplies,South,4273,723.13
+428,2024-08-02,Phone,Technology,North,763,199.83
+429,2024-10-31,Printer,Office Supplies,North,2188,248.25
+430,2024-01-23,Headphones,Technology,West,898,133.75
+431,2024-01-29,Headphones,Technology,South,2419,503.04
+432,2024-10-21,Monitor,Technology,East,2418,636.31
+433,2024-03-14,Keyboard,Office Supplies,South,2440,391.26
+434,2024-10-12,Mouse,Office Supplies,South,2961,459.05
+435,2024-06-25,Mouse,Office Supplies,West,4560,498.76
+436,2024-06-02,Keyboard,Office Supplies,West,3910,710.26
+437,2024-04-25,Tablet,Technology,East,4906,955.22
+438,2024-10-14,Tablet,Technology,West,4293,1214.7
+439,2024-05-04,Mouse,Office Supplies,East,4841,613.93
+440,2024-08-18,Printer,Office Supplies,East,3205,735.04
+441,2024-04-07,Phone,Technology,North,4887,1196.91
+442,2024-11-04,Monitor,Technology,North,3589,842.46
+443,2024-10-27,Phone,Technology,South,2041,532.56
+444,2024-06-19,Headphones,Technology,East,2211,605.58
+445,2024-03-01,Laptop,Technology,West,2235,642.41
+446,2024-05-02,Printer,Office Supplies,East,2175,390.03
+447,2024-11-28,Monitor,Technology,East,3618,699.18
+448,2024-09-11,Monitor,Technology,West,2642,454.24
+449,2024-06-12,Phone,Technology,South,4346,1096.61
+450,2024-10-15,Keyboard,Office Supplies,South,3063,559.87
+451,2024-10-26,Tablet,Technology,West,632,96.16
+452,2024-04-27,Monitor,Technology,West,1748,243.39
+453,2024-12-16,Printer,Office Supplies,East,4590,964.49
+454,2024-11-24,Monitor,Technology,West,4502,1320.44
+455,2024-06-29,Headphones,Technology,South,1878,463.03
+456,2024-10-04,Tablet,Technology,North,4977,983.77
+457,2024-12-08,Laptop,Technology,North,1108,320.25
+458,2024-11-18,Laptop,Technology,South,3878,494.44
+459,2024-09-15,Phone,Technology,West,1737,176.88
+460,2024-12-07,Keyboard,Office Supplies,West,995,222.45
+461,2024-10-09,Headphones,Technology,West,628,63.63
+462,2024-05-20,Laptop,Technology,East,637,131.15
+463,2024-12-11,Laptop,Technology,West,4614,1211.78
+464,2024-09-25,Tablet,Technology,South,1376,390.25
+465,2024-05-09,Printer,Office Supplies,East,2072,464.04
+466,2024-07-26,Monitor,Technology,West,3751,434.38
+467,2024-02-11,Printer,Office Supplies,North,2350,375.99
+468,2024-10-09,Phone,Technology,West,3820,671.76
+469,2024-02-12,Laptop,Technology,West,577,138.81
+470,2024-02-18,Mouse,Office Supplies,North,3213,684.92
+471,2024-12-20,Printer,Office Supplies,West,2231,625.25
+472,2024-12-16,Monitor,Technology,East,881,250.94
+473,2024-06-10,Laptop,Technology,North,1969,562.65
+474,2024-12-30,Printer,Office Supplies,West,1681,421.01
+475,2024-05-03,Phone,Technology,West,2951,390.98
+476,2024-03-12,Keyboard,Office Supplies,North,3644,915.09
+477,2024-04-28,Keyboard,Office Supplies,North,939,112.25
+478,2024-06-16,Keyboard,Office Supplies,North,3749,1101.4
+479,2024-07-01,Monitor,Technology,West,4190,830.13
+480,2024-12-04,Mouse,Office Supplies,West,2021,476.83
+481,2024-02-07,Phone,Technology,North,2919,757.8
+482,2024-11-20,Monitor,Technology,South,1763,310.29
+483,2024-02-16,Mouse,Office Supplies,North,3094,532.6
+484,2024-05-18,Monitor,Technology,North,4143,712.53
+485,2024-08-17,Tablet,Technology,West,1215,167.04
+486,2024-10-10,Phone,Technology,North,715,84.32
+487,2024-07-30,Keyboard,Office Supplies,West,3655,374.52
+488,2024-03-27,Phone,Technology,West,2488,533.41
+489,2024-05-17,Tablet,Technology,West,1637,251.74
+490,2024-05-21,Tablet,Technology,West,1018,135.84
+491,2024-07-03,Monitor,Technology,East,4466,1145.68
+492,2024-04-10,Printer,Office Supplies,West,4561,997.77
+493,2024-07-21,Phone,Technology,East,1609,258.94
+494,2024-08-08,Mouse,Office Supplies,South,3199,601.55
+495,2024-12-21,Monitor,Technology,South,3126,689.73
+496,2024-07-22,Headphones,Technology,East,3073,416.48
+497,2024-05-04,Monitor,Technology,East,4522,1327.44
+498,2024-07-20,Mouse,Office Supplies,East,2796,736.18
+499,2024-10-06,Phone,Technology,South,2136,466.6
+500,2024-04-17,Laptop,Technology,West,4281,1235.48
+501,2024-07-28,Monitor,Technology,West,1066,281.2
+502,2024-12-03,Tablet,Technology,South,2980,442.24
+503,2024-11-02,Mouse,Office Supplies,West,3588,411.88
+504,2024-12-20,Mouse,Office Supplies,West,4877,981.85
+505,2024-10-01,Laptop,Technology,North,3445,827.93
+506,2024-06-30,Phone,Technology,South,2533,586.44
+507,2024-06-18,Laptop,Technology,West,3773,1106.86
+508,2024-04-23,Phone,Technology,South,586,70.16
+509,2024-12-13,Headphones,Technology,South,3564,635.2
+510,2024-05-31,Keyboard,Office Supplies,West,701,137.78
+511,2024-03-13,Phone,Technology,East,1450,386.08
+512,2024-04-15,Monitor,Technology,West,3310,632.43
+513,2024-12-22,Keyboard,Office Supplies,West,4400,525.91
+514,2024-12-29,Keyboard,Office Supplies,North,1050,168.06
+515,2024-12-12,Laptop,Technology,South,3310,759.96
+516,2024-03-22,Printer,Office Supplies,East,4727,637.63
+517,2024-07-26,Mouse,Office Supplies,South,4285,627.2
+518,2024-11-10,Tablet,Technology,South,4040,723.63
+519,2024-12-26,Headphones,Technology,South,4018,714.27
+520,2024-02-02,Printer,Office Supplies,North,2780,696.29
+521,2024-08-22,Tablet,Technology,North,3496,577.53
+522,2024-11-23,Monitor,Technology,East,4509,926.79
+523,2024-06-27,Mouse,Office Supplies,East,3715,807.64
+524,2024-12-27,Headphones,Technology,East,1913,502.64
+525,2024-05-02,Phone,Technology,East,1597,259.73
+526,2024-03-13,Phone,Technology,West,1999,349.15
+527,2024-08-04,Mouse,Office Supplies,South,1629,350.17
+528,2024-11-26,Headphones,Technology,South,4902,1170.04
+529,2024-04-05,Tablet,Technology,East,4511,711.69
+530,2024-01-05,Headphones,Technology,West,939,256.45
+531,2024-10-14,Tablet,Technology,West,2098,551.86
+532,2024-08-15,Mouse,Office Supplies,West,4528,829.19
+533,2024-04-22,Tablet,Technology,East,1177,250.79
+534,2024-05-27,Laptop,Technology,South,2751,398.81
+535,2024-02-27,Headphones,Technology,North,4557,956.72
+536,2024-07-06,Monitor,Technology,North,4949,1309.79
+537,2024-08-05,Headphones,Technology,North,4975,714.95
+538,2024-01-17,Printer,Office Supplies,West,2938,807.84
+539,2024-02-14,Monitor,Technology,West,3355,914.04
+540,2024-10-28,Phone,Technology,East,2441,346.56
+541,2024-04-15,Mouse,Office Supplies,South,1859,414.99
+542,2024-11-01,Laptop,Technology,South,3373,696.38
+543,2024-05-16,Keyboard,Office Supplies,North,2897,457.34
+544,2024-05-21,Tablet,Technology,South,3871,1098.41
+545,2024-06-13,Tablet,Technology,South,2545,328.94
+546,2024-11-19,Mouse,Office Supplies,East,4509,579.11
+547,2024-11-20,Mouse,Office Supplies,North,3573,680.29
+548,2024-12-21,Mouse,Office Supplies,East,4723,1180.56
+549,2024-01-02,Headphones,Technology,North,4498,744.23
+550,2024-09-30,Headphones,Technology,West,3434,927.25
+551,2024-09-10,Printer,Office Supplies,East,4019,1064.91
+552,2024-10-22,Keyboard,Office Supplies,South,2823,473.0
+553,2024-01-25,Headphones,Technology,North,3315,924.32
+554,2024-03-21,Phone,Technology,West,4264,440.28
+555,2024-08-07,Headphones,Technology,South,505,150.68
+556,2024-05-20,Tablet,Technology,North,2972,391.7
+557,2024-12-06,Keyboard,Office Supplies,South,2551,297.15
+558,2024-12-24,Laptop,Technology,South,3746,843.3
+559,2024-01-01,Mouse,Office Supplies,South,1247,300.2
+560,2024-04-25,Headphones,Technology,West,1138,144.0
+561,2024-03-02,Laptop,Technology,West,566,135.34
+562,2024-07-15,Tablet,Technology,North,4413,503.81
+563,2024-06-02,Phone,Technology,South,1345,218.79
+564,2024-12-12,Mouse,Office Supplies,South,1590,363.02
+565,2024-11-08,Phone,Technology,South,4845,1030.33
+566,2024-11-17,Headphones,Technology,South,3376,825.39
+567,2024-02-14,Mouse,Office Supplies,North,4124,1121.7
+568,2024-07-15,Tablet,Technology,East,1508,328.62
+569,2024-05-06,Mouse,Office Supplies,East,3076,794.27
+570,2024-11-03,Phone,Technology,East,2532,533.44
+571,2024-11-06,Laptop,Technology,South,2971,419.18
+572,2024-05-02,Mouse,Office Supplies,West,2921,669.59
+573,2024-11-22,Mouse,Office Supplies,North,1423,210.91
+574,2024-03-08,Laptop,Technology,West,3458,991.7
+575,2024-03-29,Mouse,Office Supplies,West,3493,730.98
+576,2024-01-08,Phone,Technology,East,636,138.31
+577,2024-07-22,Printer,Office Supplies,East,826,235.01
+578,2024-02-12,Mouse,Office Supplies,South,3969,954.0
+579,2024-09-18,Monitor,Technology,South,1184,191.79
+580,2024-10-27,Tablet,Technology,North,4894,809.22
+581,2024-05-02,Monitor,Technology,North,4083,1004.38
+582,2024-02-29,Printer,Office Supplies,West,1206,343.62
+583,2024-12-02,Laptop,Technology,South,3033,707.34
+584,2024-12-25,Phone,Technology,North,603,145.67
+585,2024-09-24,Tablet,Technology,East,4566,1326.89
+586,2024-05-17,Tablet,Technology,North,3546,444.62
+587,2024-05-19,Laptop,Technology,North,3244,848.05
+588,2024-09-18,Monitor,Technology,East,1131,225.33
+589,2024-03-26,Laptop,Technology,East,4592,1248.44
+590,2024-10-20,Tablet,Technology,North,2589,659.33
+591,2024-01-07,Printer,Office Supplies,South,4668,469.2
+592,2024-03-17,Laptop,Technology,South,4364,754.08
+593,2024-05-07,Laptop,Technology,West,3935,570.19
+594,2024-10-19,Keyboard,Office Supplies,East,2722,721.87
+595,2024-01-27,Phone,Technology,South,4612,1082.28
+596,2024-07-24,Printer,Office Supplies,North,4725,1399.94
+597,2024-06-08,Headphones,Technology,East,2812,716.23
+598,2024-04-12,Phone,Technology,East,4241,430.86
+599,2024-10-29,Monitor,Technology,West,2487,479.46
+600,2024-05-05,Printer,Office Supplies,South,4977,1254.68
+601,2024-10-04,Laptop,Technology,East,3859,404.35
+602,2024-12-02,Laptop,Technology,West,3244,325.35
+603,2024-05-01,Monitor,Technology,West,1351,190.54
+604,2024-03-13,Headphones,Technology,East,990,291.57
+605,2024-09-23,Phone,Technology,West,859,244.17
+606,2024-02-13,Keyboard,Office Supplies,North,4255,1254.85
+607,2024-10-17,Tablet,Technology,North,3730,428.82
+608,2024-05-13,Mouse,Office Supplies,East,1570,231.35
+609,2024-05-19,Mouse,Office Supplies,South,3172,518.98
+610,2024-10-26,Phone,Technology,North,2160,274.8
+611,2024-08-26,Tablet,Technology,East,1365,181.37
+612,2024-04-16,Mouse,Office Supplies,West,1489,308.5
+613,2024-03-02,Monitor,Technology,North,4295,657.14
+614,2024-12-22,Tablet,Technology,North,2992,793.71
+615,2024-12-30,Printer,Office Supplies,South,3185,412.98
+616,2024-12-12,Keyboard,Office Supplies,East,3746,759.28
+617,2024-07-26,Monitor,Technology,West,1924,204.36
+618,2024-03-12,Printer,Office Supplies,North,1275,245.32
+619,2024-04-23,Laptop,Technology,South,1005,267.4
+620,2024-11-18,Printer,Office Supplies,North,3781,659.59
+621,2024-02-03,Monitor,Technology,South,1114,116.26
+622,2024-06-18,Headphones,Technology,North,1555,184.11
+623,2024-10-20,Laptop,Technology,West,4276,470.91
+624,2024-12-15,Mouse,Office Supplies,West,4564,483.31
+625,2024-04-05,Tablet,Technology,East,3399,485.86
+626,2024-01-18,Monitor,Technology,South,4153,1149.07
+627,2024-10-08,Monitor,Technology,West,4586,836.48
+628,2024-03-11,Laptop,Technology,West,1218,189.95
+629,2024-10-05,Printer,Office Supplies,North,4807,720.23
+630,2024-09-05,Mouse,Office Supplies,East,3441,674.22
+631,2024-01-14,Keyboard,Office Supplies,East,3681,567.19
+632,2024-05-23,Printer,Office Supplies,North,740,206.57
+633,2024-10-26,Headphones,Technology,South,4837,829.48
+634,2024-05-03,Tablet,Technology,East,1320,197.43
+635,2024-07-17,Laptop,Technology,East,2297,494.17
+636,2024-06-11,Tablet,Technology,East,1942,286.08
+637,2024-10-15,Laptop,Technology,South,3380,978.55
+638,2024-03-30,Printer,Office Supplies,West,4532,944.58
+639,2024-11-04,Laptop,Technology,South,1239,137.82
+640,2024-06-18,Laptop,Technology,South,4812,941.22
+641,2024-06-14,Tablet,Technology,North,3291,800.99
+642,2024-03-13,Laptop,Technology,North,1710,371.62
+643,2024-12-05,Keyboard,Office Supplies,West,1094,191.14
+644,2024-03-10,Phone,Technology,South,3257,522.27
+645,2024-03-30,Mouse,Office Supplies,East,4491,1032.19
+646,2024-12-18,Printer,Office Supplies,East,1936,340.11
+647,2024-12-25,Tablet,Technology,West,1955,480.47
+648,2024-11-09,Laptop,Technology,South,1991,438.97
+649,2024-02-09,Phone,Technology,South,4564,584.78
+650,2024-02-15,Keyboard,Office Supplies,East,3117,416.36
+651,2024-05-07,Headphones,Technology,North,593,90.75
+652,2024-01-01,Keyboard,Office Supplies,North,2602,669.77
+653,2024-03-26,Mouse,Office Supplies,West,4089,1008.01
+654,2024-07-11,Headphones,Technology,North,3602,613.23
+655,2024-02-07,Headphones,Technology,North,2347,311.05
+656,2024-02-23,Monitor,Technology,North,664,108.73
+657,2024-03-23,Keyboard,Office Supplies,North,1893,525.47
+658,2024-11-10,Phone,Technology,West,3268,715.06
+659,2024-03-25,Laptop,Technology,West,4033,1163.47
+660,2024-04-15,Tablet,Technology,South,938,112.8
+661,2024-05-24,Mouse,Office Supplies,East,4924,753.63
+662,2024-10-19,Printer,Office Supplies,West,1285,141.26
+663,2024-08-06,Tablet,Technology,North,946,162.87
+664,2024-01-14,Monitor,Technology,South,4434,620.47
+665,2024-08-30,Tablet,Technology,North,2890,853.74
+666,2024-12-04,Monitor,Technology,East,3756,729.37
+667,2024-07-08,Phone,Technology,West,4957,879.89
+668,2024-05-14,Keyboard,Office Supplies,West,2028,383.61
+669,2024-05-17,Headphones,Technology,North,2657,385.93
+670,2024-06-25,Tablet,Technology,West,1292,151.35
+671,2024-09-24,Printer,Office Supplies,West,999,267.89
+672,2024-02-10,Headphones,Technology,West,2430,474.46
+673,2024-09-21,Laptop,Technology,South,4613,988.31
+674,2024-03-26,Phone,Technology,South,4178,562.26
+675,2024-02-10,Printer,Office Supplies,West,1533,166.38
+676,2024-05-12,Printer,Office Supplies,East,1711,456.53
+677,2024-07-22,Phone,Technology,East,1212,215.28
+678,2024-01-07,Monitor,Technology,West,4757,911.59
+679,2024-10-17,Phone,Technology,North,3895,506.07
+680,2024-10-01,Phone,Technology,East,1327,341.24
+681,2024-09-05,Mouse,Office Supplies,West,2663,470.31
+682,2024-03-14,Laptop,Technology,West,1910,296.21
+683,2024-06-18,Laptop,Technology,South,3742,1039.96
+684,2024-07-09,Laptop,Technology,North,4392,1248.06
+685,2024-09-08,Keyboard,Office Supplies,North,2982,483.65
+686,2024-08-14,Printer,Office Supplies,East,1600,256.15
+687,2024-02-15,Monitor,Technology,South,3914,864.98
+688,2024-07-27,Headphones,Technology,West,2231,630.67
+689,2024-03-22,Keyboard,Office Supplies,North,960,194.93
+690,2024-09-25,Monitor,Technology,North,4651,840.33
+691,2024-04-12,Tablet,Technology,North,2079,571.8
+692,2024-07-03,Printer,Office Supplies,South,770,147.29
+693,2024-09-15,Monitor,Technology,West,3517,930.95
+694,2024-09-07,Phone,Technology,West,750,111.29
+695,2024-06-28,Tablet,Technology,East,4387,953.63
+696,2024-12-18,Tablet,Technology,North,2618,653.96
+697,2024-03-24,Monitor,Technology,South,724,128.37
+698,2024-05-17,Printer,Office Supplies,West,2344,552.1
+699,2024-03-08,Laptop,Technology,South,572,111.44
+700,2024-06-05,Laptop,Technology,East,2333,351.07
+701,2024-08-23,Mouse,Office Supplies,East,3584,968.82
+702,2024-09-23,Printer,Office Supplies,West,4323,693.53
+703,2024-12-05,Phone,Technology,East,560,113.29
+704,2024-09-03,Monitor,Technology,North,2945,697.62
+705,2024-05-21,Keyboard,Office Supplies,East,2764,630.52
+706,2024-05-03,Monitor,Technology,North,2043,265.56
+707,2024-01-14,Mouse,Office Supplies,West,3118,736.32
+708,2024-07-26,Monitor,Technology,West,2625,738.63
+709,2024-04-23,Laptop,Technology,West,2055,346.54
+710,2024-03-28,Keyboard,Office Supplies,South,4655,744.98
+711,2024-05-12,Monitor,Technology,South,1299,252.21
+712,2024-04-24,Keyboard,Office Supplies,East,1231,177.82
+713,2024-10-26,Mouse,Office Supplies,East,3214,560.32
+714,2024-11-20,Headphones,Technology,North,1464,284.17
+715,2024-12-14,Headphones,Technology,West,2093,418.8
+716,2024-03-18,Monitor,Technology,South,3884,430.4
+717,2024-10-18,Printer,Office Supplies,West,3307,601.34
+718,2024-04-02,Tablet,Technology,North,3091,842.23
+719,2024-03-31,Headphones,Technology,East,3224,729.29
+720,2024-04-17,Laptop,Technology,South,538,102.44
+721,2024-02-15,Tablet,Technology,South,4510,1159.26
+722,2024-09-01,Mouse,Office Supplies,West,4017,725.79
+723,2024-07-10,Laptop,Technology,North,809,167.27
+724,2024-12-12,Keyboard,Office Supplies,North,4850,669.86
+725,2024-06-25,Printer,Office Supplies,East,2353,561.67
+726,2024-10-28,Tablet,Technology,East,1341,236.97
+727,2024-06-01,Tablet,Technology,East,1034,273.77
+728,2024-06-21,Headphones,Technology,West,4762,1044.18
+729,2024-09-07,Tablet,Technology,East,3307,989.55
+730,2024-07-25,Printer,Office Supplies,North,1850,535.79
+731,2024-03-08,Printer,Office Supplies,South,2337,573.58
+732,2024-07-06,Laptop,Technology,North,4633,619.88
+733,2024-11-15,Mouse,Office Supplies,North,2595,659.78
+734,2024-01-11,Laptop,Technology,North,1385,319.54
+735,2024-03-04,Phone,Technology,East,3914,739.21
+736,2024-12-17,Headphones,Technology,North,1754,247.49
+737,2024-12-05,Monitor,Technology,East,3947,917.02
+738,2024-02-23,Tablet,Technology,North,3931,1046.16
+739,2024-09-11,Monitor,Technology,South,1433,368.21
+740,2024-04-13,Printer,Office Supplies,East,2654,706.76
+741,2024-10-07,Mouse,Office Supplies,West,2919,385.53
+742,2024-01-02,Printer,Office Supplies,North,4437,737.08
+743,2024-12-08,Phone,Technology,West,1404,374.93
+744,2024-02-08,Tablet,Technology,North,1237,316.55
+745,2024-05-31,Monitor,Technology,East,2393,457.9
+746,2024-03-30,Headphones,Technology,North,910,109.17
+747,2024-06-09,Monitor,Technology,West,3450,898.1
+748,2024-01-24,Phone,Technology,North,1278,345.38
+749,2024-08-12,Tablet,Technology,East,1896,314.23
+750,2024-04-03,Phone,Technology,North,3552,934.15
+751,2024-05-19,Mouse,Office Supplies,West,3778,1104.92
+752,2024-03-26,Headphones,Technology,North,3954,908.51
+753,2024-03-22,Tablet,Technology,North,980,290.39
+754,2024-12-13,Mouse,Office Supplies,West,4454,1160.06
+755,2024-11-09,Tablet,Technology,North,3610,923.56
+756,2024-02-27,Tablet,Technology,West,4457,1266.14
+757,2024-12-01,Headphones,Technology,East,876,98.7
+758,2024-10-22,Laptop,Technology,South,4799,1216.57
+759,2024-12-24,Keyboard,Office Supplies,North,4752,972.36
+760,2024-12-05,Mouse,Office Supplies,West,2536,498.03
+761,2024-03-21,Tablet,Technology,West,947,96.91
+762,2024-09-08,Headphones,Technology,East,1854,213.16
+763,2024-01-26,Printer,Office Supplies,South,3210,943.83
+764,2024-02-10,Mouse,Office Supplies,West,3803,1001.79
+765,2024-09-12,Headphones,Technology,West,4170,490.41
+766,2024-11-30,Keyboard,Office Supplies,North,1472,435.91
+767,2024-10-12,Phone,Technology,North,3804,694.11
+768,2024-10-14,Phone,Technology,South,2995,832.68
+769,2024-01-28,Headphones,Technology,South,3292,568.42
+770,2024-11-13,Headphones,Technology,West,3219,682.53
+771,2024-12-03,Keyboard,Office Supplies,South,4207,516.64
+772,2024-11-20,Laptop,Technology,East,3296,563.71
+773,2024-03-25,Keyboard,Office Supplies,West,1370,149.54
+774,2024-11-08,Tablet,Technology,South,3852,467.6
+775,2024-07-20,Printer,Office Supplies,South,1489,425.92
+776,2024-02-25,Headphones,Technology,West,2061,501.56
+777,2024-08-18,Laptop,Technology,West,1509,383.93
+778,2024-01-25,Tablet,Technology,West,4586,462.58
+779,2024-03-31,Headphones,Technology,South,4664,1194.99
+780,2024-11-03,Tablet,Technology,East,1348,239.24
+781,2024-12-20,Mouse,Office Supplies,South,3929,1162.59
+782,2024-05-30,Monitor,Technology,West,3759,1100.33
+783,2024-12-24,Tablet,Technology,East,1631,297.74
+784,2024-11-15,Keyboard,Office Supplies,East,2280,319.61
+785,2024-11-28,Keyboard,Office Supplies,South,1586,469.88
+786,2024-10-14,Keyboard,Office Supplies,West,1445,364.36
+787,2024-08-04,Mouse,Office Supplies,North,4873,765.97
+788,2024-01-28,Phone,Technology,North,707,124.56
+789,2024-03-23,Printer,Office Supplies,East,2687,671.85
+790,2024-12-19,Monitor,Technology,East,1699,455.12
+791,2024-08-19,Printer,Office Supplies,North,4933,525.17
+792,2024-12-22,Printer,Office Supplies,East,3685,543.61
+793,2024-12-16,Laptop,Technology,East,3625,643.48
+794,2024-04-13,Laptop,Technology,West,606,150.73
+795,2024-10-06,Printer,Office Supplies,South,3512,881.59
+796,2024-12-15,Printer,Office Supplies,North,2909,552.02
+797,2024-03-02,Tablet,Technology,West,1923,475.01
+798,2024-05-15,Laptop,Technology,South,4010,624.85
+799,2024-08-26,Tablet,Technology,South,2589,261.82
+800,2024-11-01,Laptop,Technology,North,1759,502.59
+801,2024-10-08,Monitor,Technology,East,4518,1165.56
+802,2024-04-04,Phone,Technology,North,3103,636.36
+803,2024-07-25,Tablet,Technology,North,3907,815.06
+804,2024-12-05,Keyboard,Office Supplies,East,2312,639.68
+805,2024-11-12,Keyboard,Office Supplies,West,3455,548.36
+806,2024-08-16,Laptop,Technology,South,1439,336.42
+807,2024-06-13,Printer,Office Supplies,West,826,195.36
+808,2024-05-24,Phone,Technology,North,3661,553.98
+809,2024-08-16,Keyboard,Office Supplies,West,4713,1228.04
+810,2024-04-08,Laptop,Technology,East,2928,818.83
+811,2024-10-02,Phone,Technology,North,1286,171.65
+812,2024-04-19,Phone,Technology,West,2226,521.03
+813,2024-12-25,Phone,Technology,West,2184,453.29
+814,2024-06-18,Phone,Technology,North,1759,184.26
+815,2024-05-08,Phone,Technology,North,1100,121.94
+816,2024-08-18,Printer,Office Supplies,West,2618,475.24
+817,2024-12-10,Mouse,Office Supplies,North,3091,319.54
+818,2024-10-26,Laptop,Technology,North,1018,255.71
+819,2024-02-24,Phone,Technology,East,3430,979.64
+820,2024-08-12,Monitor,Technology,West,1208,188.81
+821,2024-09-30,Mouse,Office Supplies,South,752,146.49
+822,2024-10-06,Tablet,Technology,East,3703,960.39
+823,2024-11-27,Tablet,Technology,East,2941,692.48
+824,2024-01-03,Laptop,Technology,West,1658,206.66
+825,2024-06-25,Phone,Technology,South,2996,425.46
+826,2024-04-04,Mouse,Office Supplies,South,4698,603.65
+827,2024-12-09,Monitor,Technology,North,2091,257.04
+828,2024-02-04,Headphones,Technology,East,1099,173.79
+829,2024-09-06,Phone,Technology,East,2117,518.91
+830,2024-04-30,Keyboard,Office Supplies,North,1550,363.1
+831,2024-06-11,Monitor,Technology,West,1071,299.91
+832,2024-06-05,Headphones,Technology,South,3189,712.0
+833,2024-03-27,Keyboard,Office Supplies,North,3091,901.74
+834,2024-12-30,Keyboard,Office Supplies,West,2516,646.94
+835,2024-06-18,Monitor,Technology,West,3444,436.91
+836,2024-06-05,Headphones,Technology,West,4148,712.41
+837,2024-02-11,Phone,Technology,East,1939,444.24
+838,2024-11-16,Tablet,Technology,North,4912,684.17
+839,2024-11-19,Phone,Technology,North,652,175.99
+840,2024-10-09,Mouse,Office Supplies,East,2242,630.59
+841,2024-04-24,Headphones,Technology,East,1717,297.32
+842,2024-02-16,Tablet,Technology,West,4306,862.17
+843,2024-05-02,Keyboard,Office Supplies,South,4613,471.07
+844,2024-10-16,Tablet,Technology,South,4155,547.81
+845,2024-09-06,Headphones,Technology,South,3439,371.7
+846,2024-01-22,Phone,Technology,South,2665,463.41
+847,2024-08-20,Keyboard,Office Supplies,North,3679,713.49
+848,2024-09-23,Laptop,Technology,East,3154,380.51
+849,2024-07-11,Monitor,Technology,West,4959,1061.38
+850,2024-07-11,Keyboard,Office Supplies,South,1137,231.19
+851,2024-06-25,Mouse,Office Supplies,West,3390,893.09
+852,2024-03-12,Headphones,Technology,West,554,111.0
+853,2024-11-25,Tablet,Technology,East,2384,275.16
+854,2024-07-04,Printer,Office Supplies,North,1730,237.67
+855,2024-02-28,Printer,Office Supplies,West,3896,1021.67
+856,2024-03-23,Headphones,Technology,West,4424,628.83
+857,2024-10-20,Laptop,Technology,South,2496,271.14
+858,2024-10-20,Tablet,Technology,South,4699,506.73
+859,2024-04-02,Laptop,Technology,West,1862,282.38
+860,2024-04-20,Laptop,Technology,West,2822,816.83
+861,2024-07-29,Headphones,Technology,South,4445,596.13
+862,2024-12-17,Tablet,Technology,East,4684,716.2
+863,2024-07-16,Headphones,Technology,South,1063,155.16
+864,2024-09-15,Phone,Technology,West,635,89.2
+865,2024-11-10,Tablet,Technology,North,1288,174.5
+866,2024-03-07,Phone,Technology,North,1263,248.11
+867,2024-01-23,Mouse,Office Supplies,West,4776,879.44
+868,2024-07-14,Printer,Office Supplies,East,4449,1147.45
+869,2024-09-01,Phone,Technology,South,3985,505.2
+870,2024-10-05,Phone,Technology,West,2820,619.44
+871,2024-01-04,Monitor,Technology,North,2048,207.04
+872,2024-12-18,Laptop,Technology,East,3572,824.81
+873,2024-08-06,Mouse,Office Supplies,East,3467,420.6
+874,2024-07-06,Monitor,Technology,East,4891,903.43
+875,2024-10-12,Mouse,Office Supplies,West,2168,395.98
+876,2024-09-04,Tablet,Technology,East,3532,748.14
+877,2024-07-22,Monitor,Technology,South,3320,846.07
+878,2024-12-24,Phone,Technology,South,2382,450.96
+879,2024-06-22,Phone,Technology,North,2256,454.96
+880,2024-01-03,Tablet,Technology,North,3687,1079.97
+881,2024-08-10,Tablet,Technology,North,4363,1244.21
+882,2024-02-10,Phone,Technology,North,2655,383.26
+883,2024-09-23,Mouse,Office Supplies,East,3782,842.6
+884,2024-08-12,Laptop,Technology,North,1935,441.29
+885,2024-01-18,Printer,Office Supplies,South,4744,745.76
+886,2024-12-01,Tablet,Technology,North,795,136.7
+887,2024-07-23,Tablet,Technology,East,1211,362.53
+888,2024-09-22,Mouse,Office Supplies,North,3821,829.98
+889,2024-10-13,Phone,Technology,East,1238,259.88
+890,2024-04-09,Keyboard,Office Supplies,West,2765,401.64
+891,2024-07-27,Mouse,Office Supplies,North,538,81.9
+892,2024-02-29,Phone,Technology,East,4621,734.05
+893,2024-10-15,Monitor,Technology,West,4127,1210.08
+894,2024-08-22,Printer,Office Supplies,West,3282,959.16
+895,2024-02-04,Laptop,Technology,West,4448,548.23
+896,2024-07-30,Printer,Office Supplies,East,2383,619.66
+897,2024-02-17,Laptop,Technology,West,2657,397.62
+898,2024-04-01,Keyboard,Office Supplies,West,1122,236.64
+899,2024-10-20,Keyboard,Office Supplies,East,3396,488.05
+900,2024-04-12,Tablet,Technology,South,2057,410.99
+901,2024-04-13,Printer,Office Supplies,South,2674,377.99
+902,2024-03-02,Keyboard,Office Supplies,North,1777,454.53
+903,2024-10-04,Headphones,Technology,North,554,140.08
+904,2024-09-09,Headphones,Technology,East,3540,793.43
+905,2024-09-18,Headphones,Technology,East,1998,593.16
+906,2024-03-06,Mouse,Office Supplies,North,2319,579.83
+907,2024-01-17,Mouse,Office Supplies,East,4418,1272.08
+908,2024-03-02,Mouse,Office Supplies,West,1931,369.67
+909,2024-04-17,Keyboard,Office Supplies,West,568,58.14
+910,2024-05-12,Phone,Technology,South,3165,545.39
+911,2024-11-09,Monitor,Technology,East,2442,375.78
+912,2024-04-17,Keyboard,Office Supplies,West,2006,400.71
+913,2024-05-23,Keyboard,Office Supplies,West,3490,945.32
+914,2024-12-17,Tablet,Technology,South,1574,465.67
+915,2024-10-11,Phone,Technology,West,2711,707.08
+916,2024-03-17,Mouse,Office Supplies,West,2106,272.03
+917,2024-03-09,Laptop,Technology,East,1946,358.66
+918,2024-10-17,Headphones,Technology,North,2957,444.13
+919,2024-01-31,Mouse,Office Supplies,South,1310,311.92
+920,2024-02-19,Monitor,Technology,West,4403,1179.1
+921,2024-10-13,Keyboard,Office Supplies,East,2628,452.52
+922,2024-06-28,Keyboard,Office Supplies,South,662,120.72
+923,2024-12-10,Tablet,Technology,West,2831,484.16
+924,2024-05-26,Headphones,Technology,West,1142,201.24
+925,2024-06-21,Tablet,Technology,West,1872,427.03
+926,2024-06-24,Mouse,Office Supplies,South,1084,125.55
+927,2024-12-29,Keyboard,Office Supplies,East,3095,713.72
+928,2024-07-04,Mouse,Office Supplies,West,2722,755.46
+929,2024-01-12,Mouse,Office Supplies,South,1870,255.77
+930,2024-12-24,Printer,Office Supplies,North,2561,737.79
+931,2024-02-18,Printer,Office Supplies,North,1867,334.96
+932,2024-07-22,Headphones,Technology,North,4992,552.94
+933,2024-02-13,Phone,Technology,West,2650,592.59
+934,2024-05-25,Monitor,Technology,West,2378,355.46
+935,2024-03-28,Tablet,Technology,North,1575,323.42
+936,2024-06-15,Laptop,Technology,West,3423,931.31
+937,2024-10-07,Headphones,Technology,West,4928,1414.2
+938,2024-11-01,Tablet,Technology,West,4917,665.8
+939,2024-09-30,Mouse,Office Supplies,East,4788,1091.46
+940,2024-02-15,Keyboard,Office Supplies,West,4445,924.26
+941,2024-03-20,Monitor,Technology,East,3496,637.81
+942,2024-03-10,Laptop,Technology,East,500,102.33
+943,2024-12-18,Monitor,Technology,West,4343,899.09
+944,2024-08-08,Headphones,Technology,East,2954,300.8
+945,2024-04-06,Printer,Office Supplies,West,559,117.19
+946,2024-11-26,Mouse,Office Supplies,West,3733,559.87
+947,2024-08-04,Mouse,Office Supplies,South,2307,352.04
+948,2024-09-29,Monitor,Technology,East,2832,650.49
+949,2024-04-03,Mouse,Office Supplies,South,2040,552.22
+950,2024-11-12,Monitor,Technology,West,1404,319.24
+951,2024-01-10,Monitor,Technology,South,4530,623.14
+952,2024-02-22,Laptop,Technology,East,4882,509.81
+953,2024-01-05,Monitor,Technology,South,1524,370.39
+954,2024-04-21,Phone,Technology,East,1734,178.51
+955,2024-09-12,Mouse,Office Supplies,East,3052,784.81
+956,2024-03-15,Headphones,Technology,North,759,126.03
+957,2024-08-28,Monitor,Technology,South,3714,424.42
+958,2024-01-07,Printer,Office Supplies,North,2548,671.27
+959,2024-08-14,Printer,Office Supplies,South,3652,928.5
+960,2024-02-18,Laptop,Technology,South,2131,409.51
+961,2024-06-08,Headphones,Technology,East,3687,871.2
+962,2024-10-08,Tablet,Technology,North,845,210.36
+963,2024-04-11,Monitor,Technology,East,4442,1011.46
+964,2024-04-30,Laptop,Technology,West,2284,672.99
+965,2024-05-21,Keyboard,Office Supplies,North,623,83.15
+966,2024-01-22,Mouse,Office Supplies,West,2491,253.55
+967,2024-05-07,Tablet,Technology,South,3542,900.23
+968,2024-06-22,Headphones,Technology,North,1248,296.01
+969,2024-12-25,Laptop,Technology,North,3412,781.06
+970,2024-10-12,Tablet,Technology,East,4496,658.82
+971,2024-07-12,Headphones,Technology,East,2080,216.88
+972,2024-09-05,Tablet,Technology,West,2553,714.16
+973,2024-04-07,Monitor,Technology,South,4946,1184.11
+974,2024-05-20,Keyboard,Office Supplies,South,3151,776.66
+975,2024-05-31,Phone,Technology,East,4851,635.51
+976,2024-11-22,Keyboard,Office Supplies,West,4219,422.51
+977,2024-07-05,Tablet,Technology,South,653,146.24
+978,2024-10-02,Keyboard,Office Supplies,West,1018,235.83
+979,2024-10-09,Printer,Office Supplies,South,4793,1134.24
+980,2024-06-13,Monitor,Technology,North,3142,571.72
+981,2024-01-23,Phone,Technology,South,4786,1109.29
+982,2024-09-05,Tablet,Technology,South,756,106.15
+983,2024-07-17,Phone,Technology,West,760,162.79
+984,2024-11-06,Monitor,Technology,North,902,156.29
+985,2024-02-10,Laptop,Technology,West,2209,510.61
+986,2024-07-31,Laptop,Technology,East,3456,731.3
+987,2024-02-06,Laptop,Technology,East,2677,550.94
+988,2024-02-19,Phone,Technology,North,2268,662.52
+989,2024-04-08,Printer,Office Supplies,South,4855,859.66
+990,2024-11-22,Tablet,Technology,East,3901,972.21
+991,2024-03-26,Headphones,Technology,South,3998,1105.71
+992,2024-03-21,Mouse,Office Supplies,West,4634,776.21
+993,2024-06-15,Keyboard,Office Supplies,East,3081,647.06
+994,2024-06-14,Mouse,Office Supplies,South,4027,1068.09
+995,2024-05-10,Printer,Office Supplies,East,3572,904.22
+996,2024-01-01,Headphones,Technology,North,4165,1216.03
+997,2024-06-03,Monitor,Technology,North,633,128.83
+998,2024-06-10,Monitor,Technology,North,2317,331.25
+999,2024-10-19,Monitor,Technology,South,4688,990.41
+1000,2024-03-20,Phone,Technology,South,809,155.39
